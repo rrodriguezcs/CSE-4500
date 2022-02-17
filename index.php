@@ -40,11 +40,9 @@
       </div>
       <hr>
       <div id="education" class="content-item">
-      <h2>Education</h2>
         <div class="vertical-center">
-        <h1>
-          <?php echo $json_data['education']; ?>
-        </h1>
+          <h2>Education</h2>
+          <h4><?php echo $json_data['education']; ?><h4>
         </div>
       </div>
       <hr>
