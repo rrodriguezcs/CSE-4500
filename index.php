@@ -46,12 +46,18 @@
         </div>
       </div>
       <hr>
-      <div id="experience" class="content-item">
-        <div class="vertical-center">
-          <h4>Experience</h4>
-          <p>...</p>
-        </div>
-      </div>
+      <?php foreach($json_data['experience'] AS $experience) { ?>
+  <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+    <div class="flex-grow-1">
+      <h3 class="mb-0"><?php echo $experience['title']; ?></h3>
+      <div class="subheading mb-3"><?php echo $experience['employer']; ?></div>
+      <p><?php echo $experience['description']; ?></p>
+    </div>
+    <div class="flex-shrink-0">
+      <span class="text-primary"><?php echo $experience['period']; ?></span>
+    </div>
+  </div>
+      <?php  } ?>
       <hr>
       <div id="skills" class="content-item">
         <div class="vertical-center">
