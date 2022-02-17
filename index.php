@@ -30,6 +30,7 @@
     <div data-bs-offset="0" tabindex="0">
       <div id="about" class="content-item">
         <div class="vertical-center">
+          <hr>
         <h1><?php echo $json_data['Rebecca']; ?><span class="text-primary"><?php echo $json_data['Rodriguez']; ?></span></h1>
           <div class="subheading mb-3">
             <?php echo $json_data['5500 University Pkwy, San Bernardino, CA 92407']; ?> · <?php echo $json_data['(909)537-5000']; ?> ·
