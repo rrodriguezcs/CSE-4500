@@ -31,8 +31,8 @@
       <div id="about" class="content-item">
         <div class="vertical-center">
         <h1>
-          <?php echo $json_data['Rebecca']; ?>
-          <span class="text-primary"><?php echo $json_data['Rodriguez']; ?></span>
+          <?php echo $json_data[Rebecca]; ?>
+          <span class="text-primary"><?php echo $json_data[Rodriguez]; ?></span>
         </h1>
           <div class="subheading">
             5500 University Pkwy, San Bernardino, CA 92407 · (123)456-7890
