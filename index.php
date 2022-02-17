@@ -46,6 +46,7 @@
         </div>
       </div>
       <hr>
+      <div id="experience" class="content-item">
       <?php foreach($json_data['experience'] AS $experience) { ?>
   <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
     <div class="flex-grow-1">
