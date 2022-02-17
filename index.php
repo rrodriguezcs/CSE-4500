@@ -30,20 +30,18 @@
     <div data-bs-offset="0" tabindex="0">
       <div id="about" class="content-item">
         <div class="vertical-center">
-        <h1>
-          <?php echo $json_data['Rebecca']; ?>
-          <span class="text-primary"><?php echo $json_data['Rodriguez']; ?></span>
-        </h1>
-          <div class="subheading">
-            5500 University Pkwy, San Bernardino, CA 92407 · (123)456-7890
+          <h1><?php echo $json_data['first-name']; ?><span class="text-primary"><?php echo $json_data['last-name']; ?></span></h1>
+          <div class="subheading mb-3">
+            <?php echo $json_data['address']; ?> · <?php echo $json_data['phone']; ?> ·
+            <a href="<?php echo $json_data['email']; ?>"><?php echo $json_data['email']; ?></a>
           </div>
-          <p>...</p>
+          <p><?php echo $json_data['introduction']; ?></p>
         </div>
       </div>
       <hr>
       <div id="education" class="content-item">
         <div class="vertical-center">
-          <h4>Education</h4>
+          <h2>Education</h2>
           <p>...</p>
         </div>
       </div>
