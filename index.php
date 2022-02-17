@@ -40,6 +40,7 @@
       </div>
       <hr>
       <div id="education" class="content-item">
+      <h2>Education</h2>
         <div class="vertical-center">
         <h1>
           <?php echo $json_data['education']; ?>
@@ -48,6 +49,7 @@
       </div>
       <hr>
       <div id="experience" class="content-item">
+      <h2>Experience</h2>
       <?php foreach($json_data['experience'] AS $experience) { ?>
   <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
     <div class="flex-grow-1">
