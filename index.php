@@ -18,7 +18,6 @@
     <div class="left-nav">
       <nav id="navbar-example3" class="navbar vertical-center flex-column center">
         <nav class="nav flex-column">
-        <img src="avatar.png" style="width:160px" alt="">
           <a class="nav-link" href="#about">About</a>
           <a class="nav-link" href="#education">Education</a>
           <a class="nav-link" href="#experience">Experience</a>
@@ -54,8 +53,8 @@
         <div class="flex-grow-1">
           <h3 class="mb-0"><?php echo $experience['title']; ?></h3>
         <div class="subheading mb-3"><?php echo $experience['employer']; ?></div>
-        <p><?php echo $experience['description']; ?></p>
-      </div>
+      <p><?php echo $experience['description']; ?></p>
+    </div>
     <div class="flex-shrink-0">
       <span class="text-primary"><?php echo $experience['period']; ?></span>
     </div>
