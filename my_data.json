@@ -4,7 +4,7 @@
     "address": "5500 University Pkwy, San Bernardino, CA 92407",
     "phone": "(123)456-7890",
     "email": "name@mail.com",
-    "introduction": "A introduction of youself ...",
+    "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris libero arcu, tristique quis dictum vitae, dignissim suscipit neque. Maecenas vulputate quis nisl nec posuere. Maecenas malesuada dolor et tortor mollis, in fringilla nisi consequat. Donec eu turpis tristique, pulvinar magna ut, malesuada lacus. Suspendisse eu lectus justo. Phasellus ac ligula risus.",
     "experience":[
       {
         "title":"WEB DEVELOPER",
