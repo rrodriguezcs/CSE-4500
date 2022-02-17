@@ -17,6 +17,8 @@
           <a class="nav-link" href="#about">About</a>
           <a class="nav-link" href="#education">Education</a>
           <a class="nav-link" href="#experience">Experience</a>
+          <a class="nav-link" href="#skills">Skills</a>
+          <a class="nav-link" href="#interests">Interests</a>
         </nav>
       </nav>
     </div>
