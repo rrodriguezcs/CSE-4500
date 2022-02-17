@@ -54,7 +54,7 @@
           <h3 class="mb-0"><?php echo $experience['title']; ?></h3>
         <div class="subheading mb-3"><?php echo $experience['employer']; ?></div>
         <p><?php echo $experience['description']; ?></p>
-      </div>
+      
     <div class="flex-shrink-0">
       <span class="text-primary"><?php echo $experience['period']; ?></span>
     </div>
@@ -73,6 +73,7 @@
           <h2>Interests</h2>
           <h4><?php echo $json_data['skills']; ?><h4>
         </div>
+      </div>
       </div>
       <hr>
     </div>
