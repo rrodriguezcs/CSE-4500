@@ -5,6 +5,9 @@
     "phone": "(123)456-7890",
     "email": "name@mail.com",
     "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris libero arcu, tristique quis dictum vitae, dignissim suscipit neque. Maecenas vulputate quis nisl nec posuere. Maecenas malesuada dolor et tortor mollis, in fringilla nisi consequat. Donec eu turpis tristique, pulvinar magna ut, malesuada lacus. Suspendisse eu lectus justo. Phasellus ac ligula risus.",
+    "education": "California State University San Bernardino",
+    "skills": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris libero arcu, tristique quis dictum vitae, dignissim suscipit neque. Maecenas vulputate quis nisl nec posuere. Maecenas malesuada dolor et tortor mollis, in fringilla nisi consequat. Donec eu turpis tristique, pulvinar magna ut, malesuada lacus. Suspendisse eu lectus justo. Phasellus ac ligula risus.",
+    "interests": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris libero arcu, tristique quis dictum vitae, dignissim suscipit neque. Maecenas vulputate quis nisl nec posuere. Maecenas malesuada dolor et tortor mollis, in fringilla nisi consequat. Donec eu turpis tristique, pulvinar magna ut, malesuada lacus. Suspendisse eu lectus justo. Phasellus ac ligula risus.",
     "experience":[
       {
         "title":"WEB DEVELOPER",
