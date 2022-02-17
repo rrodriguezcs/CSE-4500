@@ -58,6 +58,7 @@
     <div class="flex-shrink-0">
       <span class="text-primary"><?php echo $experience['period']; ?></span>
     </div>
+  </div>
       <?php  } ?>
       <hr>
       <div id="skills" class="content-item">
