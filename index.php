@@ -43,7 +43,6 @@
         <div class="vertical-center">
         <h1>
           <?php echo $json_data['education']; ?>
-          <span class="text-primary"><?php echo $json_data['education']; ?></span>
         </h1>
         </div>
       </div>
