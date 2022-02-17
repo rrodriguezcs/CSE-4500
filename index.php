@@ -63,10 +63,8 @@
       <hr>
       <div id="skills" class="content-item">
         <div class="vertical-center">
-        <?php foreach($json_data['skills'] AS $skills) { ?>
-        <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-        <div class="flex-grow-1">
-          <h3 class="mb-0"><?php echo $json_data['skills']; ?></h3>
+          <h4>Skills</h4>
+          <p>...</p>
         </div>
       </div>
       <hr>
